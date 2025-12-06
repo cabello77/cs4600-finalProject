@@ -1,0 +1,8 @@
+{
+  "receiver": "bob",
+  "scheme": "AES-128-CBC + HMAC-SHA256 + RSA-OAEP",
+  "encrypted_key": "35hb8EyfNmipAEoS9+1UgETFrXzBfyNErmPuUOsYD6O4tcBn+ocRig/a4T6Z2Y9nFqjIz5/QjiVLw1QXsyCorGKDck0oGB5cK+M5mu734RyCUqSq3n3+MGFPn/ZyaeBkzUkAFiLDSW42gteRkoU6Z2amvlkR4Bc5yiO6k+c22sODCqjeYlQxC69qdcavTFrOQyvXoTtsavMN/61DAN3Njno2U998qXIXgxq0Xymq3YGfGuwGP0I76aF8SrAofrmwPK04jZ+dwFlGNx+miS87KgftU/+4fEwX3XC0CXT0RITiVgJXTRCzi2GF/tl1uaCUUZxM66qr3g0eWCPm5u87pg==",
+  "iv": "l+B2zk2xZ1Iww6xLsKaDMg==",
+  "ciphertext": "1A4SW0sq2aG93GwDvChGRA==",
+  "mac": "pZWfnTKKRNDrhBvW3qTSZEI7pUp8xxRGIg113x/FqtI="
+}
